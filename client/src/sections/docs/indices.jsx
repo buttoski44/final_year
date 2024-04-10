@@ -89,27 +89,6 @@ const INDEX_LIST = [
       },
     ],
   },
-  {
-    Title: "Introduction",
-    List: [
-      {
-        id: "background",
-        title: "background",
-      },
-      {
-        id: "background",
-        title: "background",
-      },
-      {
-        id: "background",
-        title: "background",
-      },
-      {
-        id: "background",
-        title: "background",
-      },
-    ],
-  },
 ];
 
 export default function Indices() {
